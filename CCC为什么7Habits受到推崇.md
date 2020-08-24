@@ -1,8 +1,8 @@
 # 为什么要学习7个习惯
 
 ## 我们首先看一下7habits 的各种思维导图
-[图1](/Users/wangkai/Documents/ReadBooks/pic_7habits/7Habits.jpg)
-[图2](/Users/wangkai/Documents/ReadBooks/pic_7habits/7habitTree.jpeg)
+![avatar](/home/caler/wk/ReadBooks/pic_7habits/7Habits.jpg)
+![avatar](/home/caler/wk/ReadBooks/pic_7habits/7habitTree.jpeg)
 
 ## 开个头
 
@@ -44,7 +44,7 @@
 - 新思想水平
 
 
-我逐条理解以下柯老的观点：
+我逐条理解一下柯老的观点：
 
 1. 改变自己
 我觉得很好理解，一句话概括就是你自己都改变不了，怎么改变世界呢？这让我想起中国的一句话叫“齐家治国平天下的”，齐家？看看现状中国的离婚率，我觉得第一条都费劲呀，所以呀还是先“穷则独善起身”，能不能“达则兼济天下“这再看，所以说能穷就不要怨天尤人，你不敢变自己，就被事实改变，无论怎么样人随着时间的流失都会改变，只是主动和被动的区别而已。
